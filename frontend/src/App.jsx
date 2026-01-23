@@ -44,6 +44,7 @@ function App() {
     <div className="container py-5 text-center">
       
         <h2 className="mb-4">Text to QR code Converter</h2>
+        <h6 className="mb-4">By Shishir Zaman</h6>
 
         <div className="mb-3">
           <textarea 
